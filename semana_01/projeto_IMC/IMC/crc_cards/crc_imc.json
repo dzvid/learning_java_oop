@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Paciente",
+    "superclasses": "",
+    "subclasses": "",
+    "type": 1,
+    "responsibilities": [
+      "Altura",
+      "Peso",
+      "Construtor que recebe peso e altura como parametros",
+      "Calcular o indice do IMC",
+      "Gerar diagnóstico com base no IMC do paciente"
+    ],
+    "collaborators": [
+      ""
+    ]
+  }
+]
+
